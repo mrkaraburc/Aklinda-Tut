@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahneler/Menu.unity
+    guid: acc06a8c289cebd44b55ee7720cd543f
+  - enabled: 1
+    path: Assets/Sahneler/Level.unity
+    guid: 55ef4af7360d332459eb67b928415b4e
+  - enabled: 1
+    path: Assets/Sahneler/Ending.unity
+    guid: 01a1c60c98f15564bb5fc70379895cb0
